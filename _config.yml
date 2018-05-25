@@ -1,0 +1,28 @@
+color:
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+  brandStrength: 0.7198482567910105
+  lightness: 0.6078695897012949
+  saturation: 0.992811590898782
+  rhythmicContrast: 0.31249789148569107
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: QuantumMagnetix
+layout_spectrum: 0.30698858690448105
+typography_spectrum: 0.044138330267742276
+content: []
+title: Quantum Magnetix Entertainment Inc.
+description: ''
+github: true
+author:
+  name: Phil Ferland
+  email: p.andre@live.com
